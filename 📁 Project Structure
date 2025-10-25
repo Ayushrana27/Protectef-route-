@@ -1,0 +1,8 @@
+jwt-protected-routes/
+│
+├── server.js
+├── middleware/
+│   └── authMiddleware.js
+├── routes/
+│   └── protectedRoutes.js
+└── package.json
