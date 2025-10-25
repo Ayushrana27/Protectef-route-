@@ -1,0 +1,8 @@
+uthorization: Bearer <JWT_TOKEN>
+✅ Response (with valid token):
+
+json
+Copy code
+{
+  "message": "Welcome testuser! You have accessed a protected route."
+}
